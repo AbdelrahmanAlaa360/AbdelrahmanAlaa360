@@ -32,9 +32,9 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <p align=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanalaa360&show_icons=true&locale=en" alt="abdelrahmanalaa360" /></p>
-  <p align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanalaa360&" alt="abdelrahmanalaa360" /></p>  
-  <p align=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanalaa360&show_icons=true&locale=en&layout=compact" alt="abdelrahmanalaa360" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanalaa360&show_icons=true&locale=en" alt="abdelrahmanalaa360" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanalaa360&" alt="abdelrahmanalaa360" /></p>  
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanalaa360&show_icons=true&locale=en&layout=compact" alt="abdelrahmanalaa360" /></p>
 </p>
 
 <h2>⚡ Recent GitHub Activity</h2>
