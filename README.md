@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman-alaa-sadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-alaa-sadik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdoalaasadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdoalaasadik" height="30" width="40" /></a>
-<!--<a href="https://codeforces.com/profile/abdelrahman_alaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelrahman_alaa_" height="30" width="40" /></a>-->
+<a href="https://codeforces.com/profile/abdelrahman_alaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelrahman_alaa_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdelrahmanalaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelrahmanalaa" height="30" width="40" /></a>
 <a href="https://www.udemy.com/user/abdelrahman-alaa-sadek" target="_blank"><img align="center" src="https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png" alt="abdelrahmanalaa" height="40" width="40" /></a>
 </p>
