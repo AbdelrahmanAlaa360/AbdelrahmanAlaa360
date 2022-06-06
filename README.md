@@ -15,7 +15,7 @@
 
 <br>
 
-<!--<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h2>-->
+<h2 align="left"><img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman-alaa-sadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-alaa-sadik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdoalaasadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdoalaasadik" height="30" width="40" /></a>
