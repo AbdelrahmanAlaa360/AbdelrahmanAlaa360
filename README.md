@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdoalaasadik@gmail.com**
 
-- 📄 Know about my experiences from <a href="https://drive.google.com/file/d/1TjGxqUzWLyLeIR8wBkMTfYDKlUZtEQlz/view">My Resume</a>
+<!-- - 📄 Know about my experiences from <a href="">My Resume</a>-->
 
 - ⚡ A fact about me **I love coding**
 
