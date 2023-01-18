@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on my <a href="https://www.linkedin.com/in/abdelrahman-alaa-sadik">LinkedIn profile</a>
 
-- 🔭 My latest project [BitByteCodes Freelancing Platform](https://BitByteCodes.com/codeup)
+- 🔭 My latest project [BitByteCodes Freelancing Platform](http://BitByteCodes.com)
 
 - 📫 How to reach me **abdoalaasadik@gmail.com**
 
