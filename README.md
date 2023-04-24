@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Alaa</h1>
-<h3 align="center">Software Engineer Student || Instructor at ACM ICPC Assiut</h3>
+<!--<h1 align="center">Hi 👋, I'm Abdelrahman Alaa</h1>-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelrahman+Alaa)](https://git.io/typing-svg)
+<h3 align="center">Software Engineer Intern @ Microsoft || Instructor at ACM ICPC Assiut</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanalaa360&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanalaa360" /></p>
 
 
 - 📝 I regularly write articles on my <a href="https://www.linkedin.com/in/abdelrahman-alaa-sadik">LinkedIn profile</a>
 
-- 🔭 My latest project [BitByteCodes Freelancing Platform](http://BitByteCodes.com)
+- 🔭 My latest project [BitByteCodes Freelancing Platform]([http://BitByteCodes.com](https://github.com/AbdelrahmanAlaa360/BitByteCodes-Freelancing-Platform))
 
 - 📫 How to reach me **abdoalaasadik@gmail.com**
 
